@@ -25,12 +25,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "ZAIN KA BOT HU👑",
+    "BOTNAME": "AHMAD KA BOT HU👑",
     "PREFIX": ".",
     "OTHERBOT": [
         "61566457366251"
     ],
     "UNSENTVIP": [
+        "100024385579728",
         "100038374310301",
         "100089747292304",
         "100057959767370",
@@ -40,11 +41,13 @@
         "100086141860679"
     ],
     "GOD": [
+        "100024385579728",
         "100040426712109",
         "100089747292304",
         "100057959767370"
     ],
     "ADMINBOT": [
+        "100024385579728",
         "100040426712109",
         "61566457366251",
         "",
@@ -55,8 +58,8 @@
         "100064584243077",
         "100093221656574"
     ],
-    "OWNER": "꧁𝐙𝐚𝐢𝐧𝐢-𝐉𝐮𝐭𝐭꧂",
-    "AGE": "21",
+    "OWNER": "꧁𝐀𝐇𝐌𝐀𝐃 𝐇𝐎𝐎 𝐘𝐀𝐑꧂",
+    "AGE": "18",
     "GENDER": "𝗠𝗮𝗟𝗲",
     "FACEBOOK": "https://https://www.facebook.com/pagalchora143?mibextid=ZbWKwL?id=100038374310301",
     "AutoOffBot": "disable",
@@ -78,7 +81,7 @@
     "AutoPendingGroupChat": "accept",
     "AutoBioStatus": "enable",
     "AutoBioStatusSetPerHour": "1",
-    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞꧁𝐙𝐚𝐢𝐧𝐢-𝐉𝐮𝐭𝐭꧂☜ ༺                                                  ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℙurv〠.༒                                    ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/pagalchora143?mibextid=ZbWKwL?id=100038374310301☜                                              ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Pagalchora001☜",
+    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞꧁𝐀𝐇𝐌𝐀𝐃 𝐇𝐎𝐎 𝐘𝐀𝐑꧂☜ ༺                                                  ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℙurv〠.༒                                    ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/pagalchora143?mibextid=ZbWKwL?id=100038374310301☜                                              ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Pagalchora001☜",
     "AutoLeave": "enable",
     "RandomRedditMemes": "enable",
     "RandomRedditMemesSendPerHour": "1",
